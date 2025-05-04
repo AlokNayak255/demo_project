@@ -10,6 +10,8 @@ public class HelloWorld {
 		String name="Ashokit";
 		int k=30;
 		boolean status=false;
+		double salary=1000000.98;
+		
 
 	}
 
