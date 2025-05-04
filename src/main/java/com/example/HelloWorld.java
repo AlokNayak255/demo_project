@@ -14,6 +14,7 @@ public class HelloWorld {
 		
 
 		String s="Alok";
+		double salary=10000.89;
 
 	}
 
