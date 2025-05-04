@@ -11,6 +11,8 @@ public class HelloWorld {
 		int k=30;
 		boolean status=false;
 
+		String s="Alok";
+
 	}
 
 }
