@@ -12,6 +12,7 @@ public class HelloWorld {
 		boolean status=false;
 
 		String s="Alok";
+		double salary=10000.89;
 
 	}
 
