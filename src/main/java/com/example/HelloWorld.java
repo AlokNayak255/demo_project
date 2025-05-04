@@ -8,14 +8,8 @@ public class HelloWorld {
 
 		int j=20;
 		String name="Ashokit";
-
-
-
-
-
-
 		int k=30;
- 
+		boolean status=false;
 
 	}
 
